@@ -1,4 +1,4 @@
-# Welcome to my digital portofolio of random mildly interesting projects 👋
+# Hey there 👋
 I am a 3rd year student working towards a degree in Computer Science at the University of Leeds. 
 
 At the moment, I am a Technical Project Manager intern at X-Lab Systems.
