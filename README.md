@@ -5,14 +5,8 @@ At the moment, I am a Technical Project Manager intern at X-Lab Systems.
 
 This GitHub page serves as an observation point for my software engineering road. 🌟
 
-# Projects I'm quite proud of
-[Dividend-Analyser](https://github.com/RazvanBerbece/Dividend-Analyser) 💰
-
-[thisStrain](https://github.com/RazvanBerbece/thisStrain) 🍃
-
-[budBOT (follow-up from thisStrain)](https://github.com/RazvanBerbece/budBOT) 🤖
-
-[bisMate (work in progress but still proud of it so far)](https://github.com/RazvanBerbece/bisMate) 💼
+# Current big projects in progress
+[bisMate](https://github.com/RazvanBerbece/bisMate) 💼
 
 # Reach me:
 📫&nbsp;&nbsp;Email -> sc19rab@leeds.ac.uk
