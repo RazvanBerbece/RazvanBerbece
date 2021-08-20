@@ -3,7 +3,7 @@ I am a 3rd year student working towards a degree in Computer Science at the Univ
 
 At the moment, I am a Technical Project Manager intern at X-Lab Systems.
 
-This GitHub page serves as an observation point for my software engineering road. 🌟
+This GitHub page serves as an observation point for my software engineering path & development. 🌟
 
 # Current big projects in progress
 [bisMate](https://github.com/RazvanBerbece/bisMate) 💼
