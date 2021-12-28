@@ -1,7 +1,7 @@
 # Hey there 👋
 I am a 3rd year student working towards a degree in Computer Science at the University of Leeds. 
 
-Currently, I am a Technical Project Manager intern at X-Lab Systems. I am also developing full stack projects & taking an activate interest in data science & cybersecurity.
+Currently, I am a Technical Project Manager intern at X-Lab Systems. I am also developing full stack projects & taking an active interest in data science & cybersecurity (networks, customer-facing apps).
 
 This GitHub page serves as an observation point for my software engineering path & development. 🌟
 
