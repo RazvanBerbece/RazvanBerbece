@@ -5,10 +5,11 @@ Currently, I am a Technical Project Manager intern at X-Lab Systems. I am also d
 
 This GitHub page serves as an observation point for my software engineering path & development. 🌟
 
-# Current big projects in progress
+# Current Big Projects in Progress
 [bisMate](https://github.com/RazvanBerbece/bisMate) 💼
 
-[cGAN-RPS](https://github.com/RazvanBerbece/cGAN-RPS) 🧠
+# Project Highlights 
+[cGAN-RPS](https://github.com/RazvanBerbece/cGAN-RPS) 🧠 (#cGAN #CI/CD #Docker #Flask #ML #Python #Tensorflow)
 
 # Reach me:
 📫&nbsp;&nbsp;Email -> sc19rab@leeds.ac.uk
