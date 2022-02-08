@@ -7,6 +7,7 @@ This GitHub page serves as an observation point for my software engineering path
 
 # Current Big Projects in Progress
 [bisMate](https://github.com/RazvanBerbece/bisMate) 💼
+[cete-api](https://github.com/RazvanBerbece/cete-api) 🐬
 
 # Project Highlights 
 [cGAN-RPS](https://github.com/RazvanBerbece/cGAN-RPS) 🧠 (#cGAN #CI/CD #Docker #Flask #ML #Python #Tensorflow)
