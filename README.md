@@ -10,6 +10,8 @@ This GitHub page serves as an observation point for my software engineering path
 
 [cete-api](https://github.com/RazvanBerbece/cete-api) 🐬, [cete-api-infrastructure](https://github.com/RazvanBerbece/cete-api-infrastructure) 🏢
 
+[ZRD](https://github.com/RazvanBerbece/ZRD) 🪙
+
 # Project Highlights 
 [cGAN-RPS](https://github.com/RazvanBerbece/cGAN-RPS) 🧠 (#cGAN #CI/CD #Docker #Flask #ML #Python #Tensorflow)
 
