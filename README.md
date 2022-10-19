@@ -20,7 +20,7 @@ This GitHub page serves as an observation point for my software engineering path
 # Research Papers (Contributions & Authoring)
 1. Gradient boosted machine learning model to predict H2,
 CH4 and CO2 uptake in metal organic frameworks using
-experimental data (ci-2022-01240s)
+experimental data (ci-2022-01240s) - Contributor
 
 # Reach me:
 📫&nbsp;&nbsp;Email -> sc19rab@leeds.ac.uk
