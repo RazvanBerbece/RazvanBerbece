@@ -18,7 +18,7 @@ This GitHub page serves as an observation point for my software engineering path
 [cGAN-RPS](https://github.com/RazvanBerbece/cGAN-RPS) 🧠 (#cGAN #CI/CD #Docker #Flask #ML #Python #Tensorflow)
 
 # Research Papers (Contributions & Authoring)
-Gradient boosted machine learning model to predict H2,
+1. Gradient boosted machine learning model to predict H2,
 CH4 and CO2 uptake in metal organic frameworks using
 experimental data (ci-2022-01240s)
 
