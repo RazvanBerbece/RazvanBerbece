@@ -11,6 +11,7 @@ This GitHub page serves as an observation point for my software engineering path
 
 # Current Big Projects in Progress
 *that I'll probably never finish*
+
 [bisMate](https://github.com/RazvanBerbece/bisMate) 💼
 
 [cete-api](https://github.com/RazvanBerbece/cete-api) 🐬, [cete-api-infrastructure](https://github.com/RazvanBerbece/cete-api-infrastructure) 🏢
