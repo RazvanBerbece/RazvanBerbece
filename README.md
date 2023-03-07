@@ -10,6 +10,7 @@ My final year project is on benchmarking various containerised Blockchain instan
 This GitHub page serves as an observation point for my software engineering path & development. 🌟
 
 # Current Big Projects in Progress
+*that I'll probably never finish*
 [bisMate](https://github.com/RazvanBerbece/bisMate) 💼
 
 [cete-api](https://github.com/RazvanBerbece/cete-api) 🐬, [cete-api-infrastructure](https://github.com/RazvanBerbece/cete-api-infrastructure) 🏢
@@ -19,14 +20,12 @@ This GitHub page serves as an observation point for my software engineering path
 # Project Highlights 
 [cGAN-RPS](https://github.com/RazvanBerbece/cGAN-RPS) 🧠 (#cGAN #CI/CD #Docker #Flask #ML #Python #Tensorflow)
 
-# Research Papers (Contributions & Authoring)
+# Research Papers (Contributions)
 1. Gradient boosted machine learning model to predict H2,
 CH4 and CO2 uptake in metal organic frameworks using
 experimental data (ci-2022-01240s) - Contributor
 
 # Reach me:
-📫&nbsp;&nbsp;Email -> sc19rab@leeds.ac.uk
-
 🔗&nbsp;&nbsp;LinkedIn -> https://www.linkedin.com/in/antonio-berbece-b8b405198/
 
 🤖&nbsp;&nbsp;Discord -> AntoBc#7863
