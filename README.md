@@ -3,7 +3,7 @@ I am a 4th year student working towards a degree in Computer Science (with an In
 
 Currently, I am a Jr. Software Engineer at X-Lab Systems.
 
-I am developing full stack projects & taking an active interest in machine learning, computer networks, Cloud and distributed systems.
+I am developing full stack projects & taking an active interest in machine learning, Cloud and distributed systems.
 
 My final year project is about building a modular and scalable benchmarking tool for various Blockchain networks and smart contract applications (i.e Ethereum, Stellar, Tron, RSK) and performing an analysis on the generated data.
 
