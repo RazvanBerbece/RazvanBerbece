@@ -1,13 +1,13 @@
 # Hey there 👋
-I am a 4th year student working towards a degree in Computer Science (with an Industrial placement) at the University of Leeds. 
+I am a Computer Science with Year in Industry graduate always on the lookout for new opportunities to learn and develop new skills. 
 
-Currently, I am a Jr. Software Engineer at X-Lab Systems.
+Currently, I am an Associate Engineer at X-Lab Systems working on the Labgnostic digital diagnostic exchange solution.
 
-I am developing full stack projects & taking an active interest in machine learning, Cloud and distributed systems.
+I am developing full stack projects & taking an active interest in distributed systems, Cloud infrastructure and machine learning.
 
-My final year project is about building a modular and scalable benchmarking tool for various Blockchain networks and smart contract applications (i.e Ethereum, Stellar, Tron, RSK) and performing an analysis on the generated data.
+My final year project in University was about building a modular and scalable benchmarking tool for various Blockchain networks and smart contract applications (i.e Ethereum, Stellar, Tron, RSK) and performing an analysis on the generated data.
 
-This GitHub page serves as an observation point for my software engineering path & development. 🌟
+This GitHub page serves as an observation point for my software engineering path and development. 🌟
 
 # Current Big Projects in Progress
 *that I'll probably never finish*
