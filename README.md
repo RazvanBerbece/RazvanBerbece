@@ -9,6 +9,9 @@ My final year project in University was about building a modular and scalable be
 
 This GitHub page serves as an observation point for my software engineering path and development. 🌟
 
+[Account Stats](https://github-readme-stats.vercel.app/api?username=RazvanBerbece&show_icons=true)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RazvanBerbece&layout=donut-vertical)
+
 # Current Big Projects in Progress
 *that I'll probably never finish*
 
@@ -30,8 +33,6 @@ experimental data (ci-2022-01240s) - Contributor
 🔗&nbsp;&nbsp;LinkedIn -> https://www.linkedin.com/in/antonio-berbece-b8b405198/
 
 🤖&nbsp;&nbsp;Discord -> AntonioZrd#7863
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RazvanBerbece&layout=donut-vertical)]([https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api?username=RazvanBerbece&show_icons=true))
 
 <!--
 **RazvanBerbece/RazvanBerbece** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
