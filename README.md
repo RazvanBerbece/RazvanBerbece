@@ -31,7 +31,7 @@ experimental data (ci-2022-01240s) - Contributor
 
 🤖&nbsp;&nbsp;Discord -> AntonioZrd#7863
 
-![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=RazvanBerbece&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RazvanBerbece&layout=donut-vertical)]([https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api?username=RazvanBerbece&show_icons=true))
 
 <!--
 **RazvanBerbece/RazvanBerbece** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
