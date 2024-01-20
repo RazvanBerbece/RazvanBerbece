@@ -9,7 +9,7 @@ My final year project in University was about building a modular and scalable be
 
 This GitHub page serves as an observation point for my software engineering path and development. 🌟
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RazvanBerbece&layout=donut)](https://github.com/RazvanBerbece/github-readme-stats)  ![Antonio's's GitHub stats](https://github-readme-stats.vercel.app/api?username=RazvanBerbece&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RazvanBerbece&layout=donut&hide=javascript,html,css,scss)](https://github.com/RazvanBerbece/github-readme-stats)  ![Antonio's's GitHub stats](https://github-readme-stats.vercel.app/api?username=RazvanBerbece&show_icons=true)
 
 # Current Big Projects in Progress
 *that I'll probably never finish*
