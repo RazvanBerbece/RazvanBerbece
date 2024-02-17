@@ -11,21 +11,21 @@ This GitHub page serves as an observation point for my software engineering path
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RazvanBerbece&layout=donut&hide=javascript,html,css,scss)](https://github.com/RazvanBerbece/github-readme-stats)  ![Antonio's's GitHub stats](https://github-readme-stats.vercel.app/api?username=RazvanBerbece&show_icons=true)
 
-# Current Big Projects in Progress
-*that I'll probably never finish*
-
-[bisMate](https://github.com/RazvanBerbece/bisMate) 💼
+# Fun projects I started
+*and never properly finished...*
 
 [cete-api](https://github.com/RazvanBerbece/cete-api) 🐬, [cete-api-infrastructure](https://github.com/RazvanBerbece/cete-api-infrastructure) 🏢
 
 [ZRD](https://github.com/RazvanBerbece/ZRD) 🪙
+
+[bisMate](https://github.com/RazvanBerbece/bisMate) 💼
 
 # Project Highlights 
 - [AzteBot](https://github.com/RazvanBerbece/Aztebot) 🤖 (#Golang #CI/CD #Docker #Discord #GCP #kubectl)
 - [AzteBot Infrastructure](https://github.com/RazvanBerbece/Aztebot-Infrastructure) 🤖 (#GoogleCloud #Terraform #CI/CD #DBMigrations #GitHubActions #Golang)
 - [cGAN-RPS](https://github.com/RazvanBerbece/cGAN-RPS) 🧠 (#cGAN #CI/CD #Docker #Flask #ML #Python #Tensorflow)
 
-# Research Papers (Contributions)
+# Academic Work
 1. Gradient boosted machine learning model to predict H2,
 CH4 and CO2 uptake in metal organic frameworks using
 experimental data (ci-2022-01240s) - Contributor
