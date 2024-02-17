@@ -21,6 +21,7 @@ This GitHub page serves as an observation point for my software engineering path
 [ZRD](https://github.com/RazvanBerbece/ZRD) 🪙
 
 # Project Highlights 
+[AzteBot]([https://github.com/RazvanBerbece/Aztebot]) 🤖 (#Golang #CI/CD #Docker #Discord #GCP #kubectl)
 [cGAN-RPS](https://github.com/RazvanBerbece/cGAN-RPS) 🧠 (#cGAN #CI/CD #Docker #Flask #ML #Python #Tensorflow)
 
 # Research Papers (Contributions)
