@@ -22,8 +22,8 @@ This GitHub page serves as an observation point for my software engineering path
 
 # Project Highlights 
 - [AzteBot](https://github.com/RazvanBerbece/Aztebot) 🤖 (#Golang #CI/CD #Docker #Discord #GCP #kubectl)
-- [WebApiPlayground Infrastructure](https://github.com/RazvanBerbece/WebApiPlaygroundInfra) 🤖 (#Azure #Terraform #CI/CD #GitHubActions #IaC)
-- [WebApiPlayground](https://github.com/RazvanBerbece/WebApiPlayground) 🤖 (#.NET #CI/CD #EventDriven #AzureContainerApp #FastEndpoints #OpenAPI)
+- [WebApiPlayground Infrastructure](https://github.com/RazvanBerbece/WebApiPlaygroundInfra) 🏢 (#Azure #Terraform #CI/CD #GitHubActions #IaC)
+- [WebApiPlayground](https://github.com/RazvanBerbece/WebApiPlayground) 🖥️ (#.NET #CI/CD #EventDriven #AzureContainerApp #FastEndpoints #OpenAPI)
 - [cGAN-RPS](https://github.com/RazvanBerbece/cGAN-RPS) 🧠 (#cGAN #CI/CD #Docker #Flask #ML #Python #Tensorflow)
 
 # Academic Work
@@ -32,9 +32,9 @@ CH4 and CO2 uptake in metal organic frameworks using
 experimental data (ci-2022-01240s) - Contributor
 
 # Reach me:
-🔗&nbsp;&nbsp;LinkedIn -> https://www.linkedin.com/in/antonio-berbece-b8b405198/
+- 🔗&nbsp;&nbsp;LinkedIn -> https://www.linkedin.com/in/antonio-berbece-b8b405198/
 
-🤖&nbsp;&nbsp;Discord -> AntonioZrd#7863
+- 🤖&nbsp;&nbsp;Discord -> AntonioZrd#7863
 
 <!--
 **RazvanBerbece/RazvanBerbece** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
