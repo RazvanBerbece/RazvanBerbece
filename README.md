@@ -5,7 +5,7 @@ Currently, I am an Associate Engineer at X-Lab Systems working on the Labgnostic
 
 I am developing full stack projects & taking an active interest in distributed systems, Cloud infrastructure and machine learning.
 
-My final year project in University was about building a modular and scalable benchmarking tool for various Blockchain networks and smart contract applications (i.e Ethereum, Stellar, Tron, RSK) and performing an analysis on the generated data.
+My final year project in University was on building a modular and scalable benchmarking tool for various Blockchain networks and smart contract applications (i.e Ethereum, Stellar, Tron, RSK, etc.) and performing an analysis on the generated data.
 
 This GitHub page serves as an observation point for my software engineering path and development. 🌟
 
