@@ -9,6 +9,8 @@ My final year project in University was on building a modular and scalable bench
 
 This GitHub page serves as an observation point for my software engineering path and development. 🌟
 
+### _[Tip me a coffee ! :)](https://ko-fi.com/antonioberbece)_
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RazvanBerbece&layout=donut&hide=javascript,html,css,scss)](https://github.com/RazvanBerbece/github-readme-stats)  ![Antonio's's GitHub stats](https://github-readme-stats.vercel.app/api?username=RazvanBerbece&show_icons=true)
 
 # Fun projects I started
@@ -30,9 +32,6 @@ This GitHub page serves as an observation point for my software engineering path
 1. Gradient boosted machine learning model to predict H2,
 CH4 and CO2 uptake in metal organic frameworks using
 experimental data (ci-2022-01240s) - Contributor
-
-# Tip me a coffee ! :)
-https://ko-fi.com/antonioberbece
 
 # Reach me:
 - 🔗&nbsp;&nbsp;LinkedIn -> https://www.linkedin.com/in/antonio-berbece-b8b405198/
