@@ -9,7 +9,7 @@ My final year project in University was on building a modular and scalable bench
 
 This GitHub page serves as an observation point for my software engineering path and development. 🌟
 
-### _[Tip me a coffee ! :)](https://ko-fi.com/antonioberbece)_
+### _[Tip me a coffee if you like my work ! :)](https://ko-fi.com/antonioberbece)_
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RazvanBerbece&layout=donut&hide=javascript,html,css,scss)](https://github.com/RazvanBerbece/github-readme-stats)  ![Antonio's's GitHub stats](https://github-readme-stats.vercel.app/api?username=RazvanBerbece&show_icons=true)
 
