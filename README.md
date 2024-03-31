@@ -13,7 +13,7 @@ This GitHub page serves as an observation point for my software engineering path
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RazvanBerbece&layout=donut&hide=javascript,html,css,scss)](https://github.com/RazvanBerbece/github-readme-stats)  ![Antonio's's GitHub stats](https://github-readme-stats.vercel.app/api?username=RazvanBerbece&show_icons=true)
 
-# Fun projects I started
+# Fun silly little projects I started
 *and never properly finished...*
 
 [cete-api](https://github.com/RazvanBerbece/cete-api) 🐬, [cete-api-infrastructure](https://github.com/RazvanBerbece/cete-api-infrastructure) 🏢
@@ -24,8 +24,7 @@ This GitHub page serves as an observation point for my software engineering path
 
 # Project Highlights 
 - [AzteBot](https://github.com/RazvanBerbece/Aztebot), [AzteBot Infrastructure](https://github.com/RazvanBerbece/Aztebot-Infrastructure) 🤖 (#Golang #CI/CD #Terraform #Docker #Discord #GCP #kubectl)
-- [WebApiPlayground Infrastructure](https://github.com/RazvanBerbece/WebApiPlaygroundInfra) 🏢 (#Azure #Terraform #CI/CD #GitHubActions #IaC)
-- [WebApiPlayground](https://github.com/RazvanBerbece/WebApiPlayground) 🖥️ (#.NET #CI/CD #EventDriven #AzureContainerApp #FastEndpoints #OpenAPI)
+- [WebApiPlayground](https://github.com/RazvanBerbece/WebApiPlayground), [WebApiPlayground Infrastructure](https://github.com/RazvanBerbece/WebApiPlaygroundInfra) 🖥️ (#Azure #Terraform #CI/CD #GitHubActions #IaC #.NET #CI/CD #EventDriven #AzureContainerApp #FastEndpoints #OpenAPI)
 - [cGAN-RPS](https://github.com/RazvanBerbece/cGAN-RPS) 🧠 (#cGAN #CI/CD #Docker #Flask #ML #Python #Tensorflow)
 
 # Academic Work
