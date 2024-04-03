@@ -13,19 +13,19 @@ This GitHub page serves as an observation point for my software engineering path
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RazvanBerbece&layout=donut&hide=javascript,html,css,scss)](https://github.com/RazvanBerbece/github-readme-stats)  ![Antonio's's GitHub stats](https://github-readme-stats.vercel.app/api?username=RazvanBerbece&show_icons=true)
 
-# Fun silly little projects I started
-*and never properly finished...*
-
-[cete-api](https://github.com/RazvanBerbece/cete-api) 🐬, [cete-api-infrastructure](https://github.com/RazvanBerbece/cete-api-infrastructure) 🏢
-
-[ZRD](https://github.com/RazvanBerbece/ZRD) 🪙
-
-[bisMate](https://github.com/RazvanBerbece/bisMate) 💼
-
 # Project Highlights 
 - [AzteBot](https://github.com/RazvanBerbece/Aztebot), [AzteBot Infrastructure](https://github.com/RazvanBerbece/Aztebot-Infrastructure) 🤖 (#Golang #CI/CD #Terraform #Docker #Discord #GCP #kubectl)
 - [WebApiPlayground](https://github.com/RazvanBerbece/WebApiPlayground), [WebApiPlayground Infrastructure](https://github.com/RazvanBerbece/WebApiPlaygroundInfra) 🖥️ (#Azure #Terraform #IaC #.NET #CI/CD #EventDriven #FastEndpoints #OpenAPI)
-- [cGAN-RPS](https://github.com/RazvanBerbece/cGAN-RPS) 🧠 (#cGAN #CI/CD #Docker #Flask #ML #Python #Tensorflow)
+- [cGAN-RPS](https://github.com/RazvanBerbece/cGAN-RPS) 🧠 (#cGAN #Docker #Flask #ML #Python #Tensorflow)
+
+# Fun silly little projects I started
+*and never properly finished...*
+
+[ZRD](https://github.com/RazvanBerbece/ZRD) 🪙
+
+[cete-api](https://github.com/RazvanBerbece/cete-api) 🐬, [cete-api-infrastructure](https://github.com/RazvanBerbece/cete-api-infrastructure) 🏢
+
+[bisMate](https://github.com/RazvanBerbece/bisMate) 💼
 
 # Academic Work
 1. Gradient boosted machine learning model to predict H2,
