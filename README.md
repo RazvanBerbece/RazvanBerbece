@@ -1,9 +1,9 @@
 # Hey there 👋
 I am a Computer Science with Year in Industry graduate always on the lookout for new opportunities to learn and develop new skills. 
 
-Currently, I am an Associate Engineer at X-Lab Systems working on the Labgnostic digital diagnostic exchange solution.
+Currently, I am a Software Engineer at X-Lab Systems working on the Labgnostic digital diagnostic exchange solution.
 
-I am developing full stack projects & taking an active interest in distributed systems, Cloud infrastructure and machine learning.
+I am developing full stack projects & taking an active interest in **distributed systems**, **Cloud infrastructure** and **machine learning**.
 
 My final year project in University was on building a modular and scalable benchmarking tool for various Blockchain networks and smart contract applications (i.e Ethereum, Stellar, Tron, RSK, etc.) and performing an analysis on the generated data.
 
