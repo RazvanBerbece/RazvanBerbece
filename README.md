@@ -16,6 +16,7 @@ This GitHub page serves as an observation point for my software engineering path
 # Project Highlights 
 - [AzteBot](https://github.com/RazvanBerbece/Aztebot), [AzteBot Infrastructure](https://github.com/RazvanBerbece/Aztebot-Infrastructure) 🤖 (#Golang #CI/CD #Terraform #Docker #Discord #GCP #kubectl)
 - [WebApiPlayground](https://github.com/RazvanBerbece/WebApiPlayground), [WebApiPlayground Infrastructure](https://github.com/RazvanBerbece/WebApiPlaygroundInfra) 🖥️ (#Azure #Terraform #IaC #.NET #CI/CD #EventDriven #FastEndpoints #OpenAPI)
+- [shared-workflows](https://github.com/RazvanBerbece/shared-workflows) (#PlatEng, #GHA, #Rust, #Bash)
 - [cGAN-RPS](https://github.com/RazvanBerbece/cGAN-RPS) 🧠 (#cGAN #Docker #Flask #ML #Python #Tensorflow)
 
 # Fun silly little projects I started
