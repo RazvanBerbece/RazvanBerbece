@@ -28,7 +28,7 @@ This GitHub page serves as an observation point for my software engineering path
 
 [bisMate](https://github.com/RazvanBerbece/bisMate) 💼
 
-[cGAN-RPS](https://github.com/RazvanBerbece/cGAN-RPS) 🧠 (#cGAN #Docker #Flask #ML #Python #Tensorflow)
+[cGAN-RPS](https://github.com/RazvanBerbece/cGAN-RPS) 🧠
 
 # Academic Work
 1. Gradient boosted machine learning model to predict H2,
