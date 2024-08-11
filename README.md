@@ -1,5 +1,7 @@
 # Hey there 👋
-Passionate techie always on the hunt for opportunities to improve my software engineering craft. At the moment, you can find me at X-Lab Systems, working fulltime and across the entire development cycle on the Labgnostic digital diagnostic exchange solution. My interests include but are not limited to distributed systems, cloud infrastructure, platform engineering and machine learning. For my final year project in university, I designed and delivered a modular and scalable benchmarking tool for various Blockchain networks like Ethereum, Stellar, Tron, and RSK and smart contract applications for them, analyzing the extensive data it produced. 
+Passionate techie always on the hunt for opportunities to improve my software engineering craft. At the moment, you can find me at X-Lab Systems, working fulltime and across the entire development cycle on the Labgnostic digital diagnostic exchange solution. My interests include but are not limited to distributed systems, cloud infrastructure, platform engineering and machine learning. 
+
+For my final year project in university, I designed and delivered a modular and scalable benchmarking tool for various Blockchain networks like Ethereum, Stellar, Tron, and RSK and smart contract applications for them, analyzing the extensive data it produced. 
 
 This GitHub page serves as an observation point for my software engineering path and development. 🌟
 
