@@ -35,7 +35,7 @@ experimental data (ci-2022-01240s) - Contributor
 - 🤖&nbsp;&nbsp;Discord -> antoniozrd
 
 # Sponsor me! :)
-### _[Tip me a Ko-Fi](https://ko-fi.com/antonioberbece)_
+- ☕ *_[Tip me a Ko-Fi](https://ko-fi.com/antdev)_*
 
 <!--
 **RazvanBerbece/RazvanBerbece** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
