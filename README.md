@@ -1,13 +1,5 @@
 # Hey there 👋
-I am a Computer Science with Year in Industry graduate always on the lookout for new opportunities to learn and develop new skills. 
-
-Currently, I am a Software Engineer at X-Lab Systems working on the Labgnostic digital diagnostic exchange solution.
-
-I am developing full stack projects & taking an active interest in **distributed systems**, **Cloud infrastructure** and **machine learning**.
-
-My final year project in University was on building a modular and scalable benchmarking tool for various Blockchain networks and smart contract applications (i.e Ethereum, Stellar, Tron, RSK, etc.) and performing an analysis on the generated data.
-
-This GitHub page serves as an observation point for my software engineering path and development. 🌟
+Passionate techie always on the hunt for opportunities to improve my software engineering craft. At the moment, you can find me at X-Lab Systems, working fulltime and across the entire development cycle on the Labgnostic digital diagnostic exchange solution. My interests include but are not limited to distributed systems, cloud infrastructure, platform engineering and machine learning. For my final year project in university, I designed and delivered a modular and scalable benchmarking tool for various Blockchain networks like Ethereum, Stellar, Tron, and RSK and smart contract applications for them, analyzing the extensive data it produced. This GitHub page serves as an observation point for my software engineering path and development. 🌟
 
 ### _[Tip me a coffee if you like my work ! :)](https://ko-fi.com/antonioberbece)_
 
