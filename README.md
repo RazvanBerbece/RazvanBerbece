@@ -5,8 +5,6 @@ For my final year project in university, I designed and delivered a modular and 
 
 This GitHub page serves as an observation point for my software engineering path and development. 🌟
 
-### _[Tip me a coffee if you like my work ! :)](https://ko-fi.com/antonioberbece)_
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RazvanBerbece&layout=donut&hide=javascript,html,css,scss)](https://github.com/RazvanBerbece/github-readme-stats)  ![Antonio's's GitHub stats](https://github-readme-stats.vercel.app/api?username=RazvanBerbece&show_icons=true)
 
 # Project Highlights 
@@ -35,6 +33,8 @@ experimental data (ci-2022-01240s) - Contributor
 - 🔗&nbsp;&nbsp;LinkedIn -> https://www.linkedin.com/in/antonio-berbece-b8b405198/
 
 - 🤖&nbsp;&nbsp;Discord -> antoniozrd
+
+- ### _[Tip me a coffee if you like my work ! :)](https://ko-fi.com/antonioberbece)_
 
 <!--
 **RazvanBerbece/RazvanBerbece** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
