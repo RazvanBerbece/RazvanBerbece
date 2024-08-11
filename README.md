@@ -15,8 +15,8 @@ This GitHub page serves as an observation point for my software engineering path
 
 # Project Highlights 
 - [ant.dev](https://github.com/RazvanBerbece/ant.dev) 📰 (#Go #Templ #HTMX #GCP #CloudRun #Terraform #CI/CD)
-- [AzteBot](https://github.com/RazvanBerbece/Aztebot), [AzteBot Infrastructure](https://github.com/RazvanBerbece/Aztebot-Infrastructure) 🤖 (#Golang #CI/CD #Terraform #Docker #Discord #GCP #kubectl)
-- [shared-workflows](https://github.com/RazvanBerbece/shared-workflows) (#PlatEng, #GHA, #Rust, #Bash)
+- [AzteBot](https://github.com/RazvanBerbece/Aztebot), [AzteMarket](https://github.com/AzteBot-Developments/AzteMarket), [AzteServices Infrastructure](https://github.com/RazvanBerbece/Aztebot-Infrastructure) 🤖 (#Golang #CI/CD #Terraform #Docker #Discord #GCP #kubectl)
+- [shared-workflows](https://github.com/RazvanBerbece/shared-workflows) ⚙️ (#PlatEng, #GHA, #Rust, #Bash)
 
 # Fun silly little projects I started
 *and never properly finished...*
