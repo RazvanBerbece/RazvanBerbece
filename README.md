@@ -29,12 +29,13 @@ This GitHub page serves as an observation point for my software engineering path
 CH4 and CO2 uptake in metal organic frameworks using
 experimental data (ci-2022-01240s) - Contributor
 
-# Reach me:
+# Reach me
 - 🔗&nbsp;&nbsp;LinkedIn -> https://www.linkedin.com/in/antonio-berbece-b8b405198/
 
 - 🤖&nbsp;&nbsp;Discord -> antoniozrd
 
-- ### _[Tip me a coffee if you like my work ! :)](https://ko-fi.com/antonioberbece)_
+# Sponsor me! :)
+### _[Tip me a Ko-Fi](https://ko-fi.com/antonioberbece)_
 
 <!--
 **RazvanBerbece/RazvanBerbece** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
