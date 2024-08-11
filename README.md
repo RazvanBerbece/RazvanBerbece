@@ -38,7 +38,7 @@ experimental data (ci-2022-01240s) - Contributor
 # Reach me:
 - 🔗&nbsp;&nbsp;LinkedIn -> https://www.linkedin.com/in/antonio-berbece-b8b405198/
 
-- 🤖&nbsp;&nbsp;Discord -> AntonioZrd#7863
+- 🤖&nbsp;&nbsp;Discord -> antoniozrd
 
 <!--
 **RazvanBerbece/RazvanBerbece** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
