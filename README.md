@@ -13,14 +13,11 @@ This GitHub page serves as an observation point for my software engineering path
 - [shared-workflows](https://github.com/RazvanBerbece/shared-workflows) ⚙️ (#PlatEng, #GHA, #Rust, #Bash)
 - [github-iac-manager](https://github.com/RazvanBerbece/github-iac-manager) 📁 (#PlatEng, #GitHub, #Terraform, #CI/CD)
 
-# Fun silly little projects I started a while ago
-*and never properly finished...*
+*and then some I never properly finished...*
 
-[ZRD](https://github.com/RazvanBerbece/ZRD) 🪙
-
-[cete-api](https://github.com/RazvanBerbece/cete-api) 🐬, [cete-api-infrastructure](https://github.com/RazvanBerbece/cete-api-infrastructure) 🏢
-
-[bisMate](https://github.com/RazvanBerbece/bisMate) 💼
+- [ZRD](https://github.com/RazvanBerbece/ZRD) 🪙
+- [cete-api](https://github.com/RazvanBerbece/cete-api) 🐬, [cete-api-infrastructure](https://github.com/RazvanBerbece/cete-api-infrastructure) 🏢
+- [bisMate](https://github.com/RazvanBerbece/bisMate) 💼
 
 # Academic Work
 1. Gradient boosted machine learning model to predict H2,
